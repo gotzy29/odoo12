@@ -69,6 +69,10 @@ xmlrpc_port = 8069
 En el menu de Pycharm **Run**>**Edit** Configurations, debemos agregar **+** en la pestaña superior a la izquierda para crear una nueva configuracion con las siguientes sentencia, tal y como presenta la imagen.
 
 ![enter image description here](https://1.bp.blogspot.com/-ETz1-8iyLu8/XPPCH11bAwI/AAAAAAAABWE/uVL7ZBT7enUWzUvDIbNtkXKzl7dssbnHACLcBGAs/s640/Screenshot+from+2019-06-02+17-41-32.jpg)
+
+
+
+
 **Ir al navegador e ingresar al localhost:8069 para poder acceder a Odoo12, en la pantalla que se muestra aquí abajo podremos crear la base de datos con la cual trabajaremos**
 
 ![enter image description here](https://1.bp.blogspot.com/-2WYZADv_T9w/XPPEjVVQlwI/AAAAAAAABWQ/u5Gaqe6vw6o0WEilBjcFZ7QAPIYw2BRwACLcBGAs/s400/screenshot-0.0.0.0-8069-2019.06.02-17-44-24.png)
